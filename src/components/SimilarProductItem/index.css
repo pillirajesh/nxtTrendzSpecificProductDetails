@@ -1,0 +1,50 @@
+/* Write your CSS here */
+.similar-image {
+  width: 150px;
+  height: 150px;
+  border-radius: 10px;
+}
+
+.similar-list {
+  list-style-type: none;
+  margin-right: 30px;
+}
+
+.title-name {
+  font-size: 13px;
+  font-weight: bold;
+  color: #171f46;
+  font-family: 'roboto';
+}
+
+.brand-name {
+  font-size: 10px;
+  font-weight: bold;
+  color: #616e7c;
+  font-family: 'roboto';
+}
+
+.price-name {
+  font-size: 15px;
+  font-weight: bold;
+  color: #12022f;
+  font-family: 'roboto';
+}
+
+.similar-cont {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.rating-cont {
+  background-color: #3b82f6;
+  width: 50px;
+  height: 30px;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  color: #ffffff;
+}
